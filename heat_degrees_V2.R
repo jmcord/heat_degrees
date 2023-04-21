@@ -14,7 +14,7 @@ library(dplyr) # data_frame utils
 library(sqldf) #df combinations
 library(ggplot2) #Graphics
 library(openair) #Graphics
-library(stringr) #NLP
+library(stringr) #NLPP
 library(data.table)
 library(readr)
 #library(xlsx)
